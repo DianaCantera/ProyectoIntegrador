@@ -1,5 +1,5 @@
 .row{
-    padding: 20px;
+    padding: 50px;
 }
 div{
     background-color: #a1b5cb;
@@ -14,7 +14,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
-        top: 800px;
+        top: 750px;
     }
 }
 @media (max-width: 575px){
@@ -24,13 +24,13 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 36%;
-        top: 830px;
+        top: 800px;
     }
 }
 
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 10%;
 
 }
