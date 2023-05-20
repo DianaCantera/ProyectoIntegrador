@@ -7,7 +7,7 @@ import { Skill } from '../model/skill';
   providedIn: 'root'
 })
 export class SkillService {
-  expoURL = 'http://localhost:8080/skill/'
+  expoURL = 'https://proyecto-final-uo5q.onrender.com/skill/'
 
   constructor(private httpClient: HttpClient) { }
 
